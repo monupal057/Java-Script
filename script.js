@@ -20,6 +20,7 @@ const i = 45;
 
 // 1.  Primitive Types of data types 
 // Monu - String 
+
 // 12 - integer
 // 12.5 - float
 // True - Boolean
